@@ -1,0 +1,15 @@
+{
+  "name": "pratibha_npmmodule_binarysearch",
+  "version": "1.0.0",
+  "description": "To find the element in sorted array in logn time",
+  "main": "index.js",
+  "scripts": {
+    "test": "backend ,api, test"
+  },
+  "keywords": [
+    "binarySearch",
+    "backend"
+  ],
+  "author": "pratibha",
+  "license": "ISC"
+}
